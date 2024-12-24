@@ -133,20 +133,9 @@ Example SQL queries in `queries.py` include:
 
 ## Screenshots
 
-### Power BI Dashboard
-![Dashboard Overview](screenshots/Screenshot-2024-12-24-105912.png)
+All screenshots related to the project are available in the [`screenshots`](screenshots) folder.
 
-### Jupyter Notebook EDA
-![EDA Visualization]([(screenshots/Screenshot%202024-12-24%20001809.png?raw=true)])
-![EDA Visualization](<Screenshot 2024-12-24 001846.png>)
-![EDA Visualization](<Screenshot 2024-12-24 001914.png>)
-![EDA Visualization](<Screenshot 2024-12-24 001941.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002017.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002042.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002107.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002130.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002154.png>)
-![EDA Visualization](<Screenshot 2024-12-24 002218.png>)
+
 
 
 
