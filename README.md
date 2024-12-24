@@ -134,7 +134,7 @@ Example SQL queries in `queries.py` include:
 ## Screenshots
 
 ### Power BI Dashboard
-![Dashboard Overview](<Screenshot 2024-12-24 105912.png>)
+![Dashboard Overview](screenshots/Screenshot-2024-12-24-105912.png)
 
 ### Jupyter Notebook EDA
 ![EDA Visualization](<Screenshot 2024-12-24 001809.png>)
