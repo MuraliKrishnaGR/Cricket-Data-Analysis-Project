@@ -137,7 +137,7 @@ Example SQL queries in `queries.py` include:
 ![Dashboard Overview](screenshots/Screenshot-2024-12-24-105912.png)
 
 ### Jupyter Notebook EDA
-![EDA Visualization](<Screenshot 2024-12-24 001809.png>)
+![EDA Visualization]([(/screenshots/Screenshot%202024-12-24%20001809.png?raw=true))
 ![EDA Visualization](<Screenshot 2024-12-24 001846.png>)
 ![EDA Visualization](<Screenshot 2024-12-24 001914.png>)
 ![EDA Visualization](<Screenshot 2024-12-24 001941.png>)
