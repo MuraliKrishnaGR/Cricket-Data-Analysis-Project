@@ -135,6 +135,8 @@ Example SQL queries in `queries.py` include:
 
 All screenshots related to the project are available in the [`screenshots`](screenshots) folder.
 
+© 2025 MuraliKrishnaGR. All rights reserved.
+
 
 
 
